@@ -18,14 +18,6 @@ export const App = () => (
 
     <section className="TodoList">
       <article className="TodoInfo TodoInfo--completed">
-        <h2 className="TodoInfo__title">HTML</h2>
-
-        <a className="UserInfo" href="mailto:Sincere@april.biz">
-          Leanne Graham
-        </a>
-      </article>
-
-      <article className="TodoInfo TodoInfo--completed">
         <h2 className="TodoInfo__title">CSS</h2>
 
         <a className="UserInfo" href="mailto:Sincere@april.biz">
